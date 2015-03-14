@@ -1,0 +1,5 @@
+# tegz
+Automatically exported from code.google.com/p/tegz
+
+sistema de control de trabajos especiales de grado
+IMPLANTACIÓN DE UNA APLICACIÓN WEB EN APOYO A LA GESTIÓN DE CONTROL DE PROCESOS QUE SE LLEVAN A CABO EN EL DEPARTAMENTO DE INVESTIGACIÓN DEL IUET-LV USANDO SOFTWARE LIBRE Y ESTANDARES ABIERTOS
